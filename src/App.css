@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+}
+
+.body{
+  background-color:#184464;
+}
+
+.header{
+  padding: 10px;
+  background-color:#dfe3ee;
+display: flex;
+justify-content: center;
+}
+.header__title{
+  text-align: center;
+  color:#133337;
+}
+.header__icon{
+  margin-top:5px;
+  color:#000080 ;
+}
+
+.input{
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+}
+
+/* Card CSS */
+.card{
+  margin-top:100px;
+margin: 10px;
+}
+.card__main__country{
+  width:300px;
+}
+
+
+.map{
+  margin-top:50px;
+}
+
+.map__name{
+  color: #133337;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
